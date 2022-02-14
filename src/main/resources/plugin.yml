@@ -1,0 +1,9 @@
+name: 1.16-training
+author: Brentspine
+version: 1.0
+main: de.brentspine.training116
+api-version: 1.16
+prefix: Training
+commands:
+  setup:
+    description: Setup
